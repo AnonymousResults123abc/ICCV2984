@@ -13,4 +13,4 @@ Test DeiT-Small achieved by Bi-ViT  (66.9 Top-1 accuracy):
 
 checkpoints can be fetched in:
 
-https://drive.google.com/drive/folders/1StJBp_-aQqOe2S5YWo5P8HWPjhGEORKG?usp=sharing
+[https://drive.google.com/drive/folders/1StJBp_-aQqOe2S5YWo5P8HWPjhGEORKG?usp=sharing](https://drive.google.com/drive/folders/11vdNMsx-O0KxfqZ8cziRe7D6q_MGWMtv?usp=sharing)
