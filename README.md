@@ -4,11 +4,11 @@ Requirements: pytorch 1.7.1 cudatoolkit 10.1
 
 Test DeiT-Tiny achieved by Bi-ViT  (66.9 Top-1 accuracy):
 
-python train.py --data=~/ImageNet/
+> python train.py --data=~/ImageNet/
 
 Test DeiT-Tiny achieved by Bi-ViT  (66.9 Top-1 accuracy):
 
-python train.py --data=~/ImageNet/
+> python train.py --data=~/ImageNet/
 
 checkpoints can be fetched in:
 
